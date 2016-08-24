@@ -5,7 +5,7 @@ public class scan
 		{	
 			Scanner sc=new Scanner(System.in);
 			String i =sc.nextLine();
-			System.out.println("The Scanner value of i is :"+i);
+			System.out.println("The Scanner class value of i is :"+i);
 }
 }
 	
